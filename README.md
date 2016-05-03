@@ -1,3 +1,8 @@
+#Deprecated
+
+This fork is now deprecated as the original repo is now on npm under the same name.
+Just use the latest npm install meteor-client-side to get it.
+
 # meteor-client-side
 
 Use Meteor's client side DDP protocol and Minimongo in a non Meteor project.
